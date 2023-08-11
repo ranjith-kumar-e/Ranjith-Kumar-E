@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [**my portfolio**](https://ranjithkumar-e.github.io/Portfolio/)
 
-- 💬 Ask me about **react, express, mongodb, css**
+- 💬 Ask me about **react, next.js, express, mongodb, css**
 
 - 📫 How to reach me **ranjithkumarstudies@gmail.com**
 
